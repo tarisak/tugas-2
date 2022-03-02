@@ -1,0 +1,40 @@
+table {
+    float:left;
+    padding-top:2cm;
+    padding-left:1cm;
+    border:0; 
+}
+table .kiri {
+    padding-left:2cm;
+    padding-right:2cm;
+}
+.keterangan {
+    font-size:15px;
+}
+body h2 { 
+    text-align: center;
+    letter-spacing: 0.5cm;
+    font-family :'abril fatface', serif;
+    font-size : 30px;
+    text-decoration: underline; 
+}
+.bulan {
+    text-align: right;
+    font-size:10pt;
+    color: #436b94; 
+}
+.tahun {
+    text-align:right;
+}
+h6 {
+    float:left;
+    text-align:center;
+    color: #22476c;
+    font-size:30px;
+    padding-left:5cm;
+}
+TD {
+    color: #22476c; text-align: auto; 
+    background-color: #e4c8e2; border-width: 1px; 
+    border-style: solid; border-color: #d5dbe4; font-size: 11pt;
+}

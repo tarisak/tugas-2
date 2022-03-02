@@ -1,0 +1,25 @@
+body h2 { 
+    text-align: center;
+    letter-spacing: 0.5cm;
+    font-family :'abril fatface', serif;
+    font-size : 30px;
+    text-decoration: underline; 
+}
+table {
+    padding-top:1cm;
+    padding-left:5cm;
+    padding-right:3cm;
+    width: 600x; 
+    border:0; 
+}
+.tahun {
+    font-size:40px;
+    padding-right:1cm;
+    padding-left:3cm;
+    color: #b95919;
+}
+td {
+    padding-right:5cm;
+    color: #284775;
+    text-align: center;
+}

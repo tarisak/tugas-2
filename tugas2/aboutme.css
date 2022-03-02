@@ -1,0 +1,65 @@
+.menu {
+    float: left;
+    padding-left:2cm;
+    padding-right:2cm;
+    padding-top: 4cm;
+    padding-bottom: 6cm;
+    background-color: #e4c8e2;
+}
+body h2 { 
+    text-align: center;
+    letter-spacing: 0.5cm;
+    font-family :'abril fatface', serif;
+    font-size : 30px;
+    text-decoration: underline; 
+}
+h2, p, a {
+    color: #284775;
+}
+body {
+    background-color: #d5dbe4; 
+}
+.isi h1 {
+    color: #284775;
+    padding-top: 2cm;
+    padding-left: 9cm;
+    font-family :'abril fatface', serif;
+    font-size : 50px;
+}
+.isi p {
+    padding-left: 9cm;
+    font-size: 20px;
+    font: arial;
+}
+.isi a, p{
+    text-decoration: none;
+}
+.isi img {
+    width: 300px;
+    float:right;
+    padding-left: 1cm;
+    padding-right:2cm;
+}
+.leftlinks {
+    padding : 5px;
+    margin: 5px;
+    text-align : middle; background-color: #e4c8e2; width: 150px;
+}.leftlinks a {
+    display: block; margin: 3px 0px;
+    border-top: 1px solid #e4c8e2; border-left: 1px solid #e4c8e2;
+    border-right: 1px solid #22476c; border-bottom: 1px solid #22476c; padding: 10px 10px;
+    text-align: center; background-color: #f3dfa1;
+    color: #000000; text-decoration: none;
+}
+.leftlinks a:link {
+    color: #22476c;
+}
+.leftlinks a:visited {
+    color: #22476c;
+}
+.leftlinks a:hover {
+    display: block; margin: 3px 0px;
+    border-top: 1px solid #22476c; border-left: 1px solid #22476c; 
+    border-bottom: 1px solid #4c86c0; border-right: 1px solid #4c86c0;padding: 5px 9px 3px 11px;
+    text-align: center; background-color: #e4c8e2; color: #22476c; text-decoration: none; 
+}

@@ -1,0 +1,22 @@
+table {
+    padding-top:2cm;
+    padding-left:5cm;
+    width: 900px; 
+    border:0; 
+}
+body h2 { 
+    text-align: center;
+    letter-spacing: 0.5cm;
+    font-family :'abril fatface', serif;
+    font-size : 30px;
+    text-decoration: underline; 
+}
+TH {
+    color: #22476c; background-color: #f3dfa1; border-width: 1px; 
+    border-style: solid; border-color: #d5dbe4; font-size: 11pt;
+}
+TD {
+    color: #22476c; text-align: center; width: 112px;
+    background-color: #e4c8e2; border-width: 1px; column-width: 112px;
+    border-style: solid; border-color: #d5dbe4; font-size: 11pt;
+}
